@@ -1,0 +1,14 @@
+
+init:
+    [mkdir] Created dir: C:\Source\Acis\aCis_datapack\build
+    [mkdir] Created dir: C:\Source\Acis\aCis_datapack\build\gameserver
+    [mkdir] Created dir: C:\Source\Acis\aCis_datapack\build\login
+
+build:
+     [sync] Copying 13683 files to C:\Source\Acis\aCis_datapack\build\gameserver\data
+     [sync] Copying 64 files to C:\Source\Acis\aCis_datapack\build\sql
+     [sync] Copying 4 files to C:\Source\Acis\aCis_datapack\build\tools
+     [sync] Copying 1 file to C:\Source\Acis\aCis_datapack\build\login
+
+BUILD SUCCESSFUL
+Total time: 1 minute 19 seconds

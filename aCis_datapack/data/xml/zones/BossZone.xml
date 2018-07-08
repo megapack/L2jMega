@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Boss Zones -->
+	<zone id="110000" shape="NPoly" minZ="-4815" maxZ="-315"><!-- Zaken Boss -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="50797" Y="213515" />
+		<node X="57617" Y="213510" />
+		<node X="57669" Y="221683" />
+		<node X="50773" Y="221632" />
+	</zone>
+	<zone id="110001" shape="NPoly" minZ="-8380" maxZ="-4880"><!-- Antharas Boss -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="173469" Y="110431" />
+		<node X="188081" Y="110284" />
+		<node X="188132" Y="119249" />
+		<node X="173386" Y="119391" />
+	</zone>
+	<zone id="110002" shape="NPoly" minZ="10061" maxZ="11061"><!-- Baium Boss -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="111022" Y="16177" />
+		<node X="114510" Y="12623" />
+		<node X="118142" Y="15790" />
+		<node X="114773" Y="19589" />
+	</zone>
+	<zone id="110003" shape="NPoly" minZ="-5504" maxZ="-5104"><!-- Anakim and Lilith Boss -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="183938" Y="-13697" />
+		<node X="186190" Y="-13692" />
+		<node X="186176" Y="-8513" />
+		<node X="183920" Y="-8513" />
+	</zone>
+	<!-- Forge of the Gods/Hall of Flames -->
+	<zone id="110004" shape="NPoly" minZ="-3326" maxZ="-1326"><!-- Fire 1 -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="183373" Y="-117179" />
+		<node X="184098" Y="-116718" />
+		<node X="184137" Y="-115290" />
+		<node X="183970" Y="-115002" />
+		<node X="183673" Y="-114982" />
+		<node X="182400" Y="-115593" />
+		<node X="182338" Y="-116737" />
+	</zone>
+	<zone id="110005" shape="NPoly" minZ="-2208" maxZ="792"><!-- Fire 2 -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="183432" Y="-117590" />
+		<node X="196325" Y="-119107" />
+		<node X="196377" Y="-103657" />
+		<node X="187161" Y="-103538" />
+	</zone>
+	<!-- Imperial Tomb/4 Sepulchers -->
+	<zone id="110006" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Royal Rush 1 -->
+		<!-- TEMP FIX Until Four Sepulcher Town zone is done -->
+		<stat name="oustX" val="170122" />
+		<stat name="oustY" val="-88274" />
+		<stat name="oustZ" val="-2921" />
+		<node X="181198" Y="-86516" />
+		<node X="192394" Y="-86521" />
+		<node X="192391" Y="-84626" />
+		<node X="181193" Y="-84622" />
+	</zone>
+	<zone id="110007" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Royal Rush 2 -->
+		<!-- TEMP FIX Until Four Sepulcher Town zone is done -->
+		<stat name="oustX" val="170122" />
+		<stat name="oustY" val="-88274" />
+		<stat name="oustZ" val="-2921" />
+		<node X="179511" Y="-89903" />
+		<node X="190707" Y="-89908" />
+		<node X="190704" Y="-88013" />
+		<node X="179506" Y="-88009" />
+	</zone>
+	<zone id="110008" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Royal Rush 3 -->
+		<!-- TEMP FIX Until Four Sepulcher Town zone is done -->
+		<stat name="oustX" val="170122" />
+		<stat name="oustY" val="-88274" />
+		<stat name="oustZ" val="-2921" />
+		<node X="174498" Y="-82751" />
+		<node X="176622" Y="-82751" />
+		<node X="176616" Y="-71304" />
+		<node X="174489" Y="-71303" />
+	</zone>
+	<zone id="110009" shape="NPoly" minZ="-7263" maxZ="-7063"><!-- Royal Rush 4 -->
+		<!-- TEMP FIX Until Four Sepulcher Town zone is done -->
+		<stat name="oustX" val="170122" />
+		<stat name="oustY" val="-88274" />
+		<stat name="oustZ" val="-2921" />
+		<node X="172183" Y="-86660" />
+		<node X="174307" Y="-86661" />
+		<node X="174301" Y="-75214" />
+		<node X="172174" Y="-75213" />
+	</zone>
+	<zone id="110010" shape="NPoly" minZ="-2572" maxZ="5428"><!-- Valakas Boss -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="196866" Y="-130845" />
+		<node X="229289" Y="-130860" />
+		<node X="229176" Y="-98508" />
+		<node X="196880" Y="-98498" />
+	</zone>
+	<zone id="110011" shape="NPoly" minZ="-2560" maxZ="440"><!-- Sailren's Nest -->
+		<stat name="InvadeTime" val="1800000" />
+		<stat name="oustX" val="23575" />
+		<stat name="oustY" val="-7727" />
+		<stat name="oustZ" val="-1272" />
+		<node X="29177" Y="-7187" />
+		<node X="28958" Y="-5798" />
+		<node X="27844" Y="-5035" />
+		<node X="26589" Y="-5393" />
+		<node X="25949" Y="-6294" />
+		<node X="26028" Y="-7399" />
+		<node X="26846" Y="-8117" />
+		<node X="28231" Y="-8163" />
+	</zone>
+	<zone id="110012" shape="NPoly" minZ="-5200" maxZ="-4680"><!-- Frintezza -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="172031" Y="-90127" />
+		<node X="176428" Y="-90089" />
+		<node X="176428" Y="-74051" />
+		<node X="172057" Y="-74108" />
+	</zone>
+	<zone id="110013" shape="NPoly" minZ="-5136" maxZ="864"><!-- Ice Fairy 1 -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="101450" Y="-130042" />
+		<node X="110723" Y="-130284" />
+		<node X="112423" Y="-125170" />
+		<node X="109990" Y="-124211" />
+		<node X="106272" Y="-124351" />
+		<node X="102418" Y="-121163" />
+		<node X="99655" Y="-124976" />
+	</zone>
+	<zone id="110014" shape="NPoly" minZ="-5280" maxZ="1280"><!-- Ice Fairy 2 -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="110637" Y="-130411" />
+		<node X="111992" Y="-129365" />
+		<node X="113242" Y="-128876" />
+		<node X="114037" Y="-126451" />
+		<node X="113811" Y="-125446" />
+		<node X="113283" Y="-125483" />
+		<node X="112968" Y="-124858" />
+		<node X="112368" Y="-125158" />
+	</zone>
+	<zone id="110015" shape="NPoly" minZ="-3768" maxZ="-2768"><!-- Ice Fairy 3 -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="113885" Y="-125859" />
+		<node X="114148" Y="-125769" />
+		<node X="114035" Y="-125527" />
+		<node X="113804" Y="-125437" />
+	</zone>
+	<zone id="110016" shape="NPoly" minZ="-10749" maxZ="-10249"><!-- Altar of Sacrifice -->
+		<stat name="InvadeTime" val="1800000" />
+		<node X="-16006" Y="-51725" />
+		<node X="-16394" Y="-51620" />
+		<node X="-16776" Y="-51732" />
+		<node X="-17014" Y="-52167" />
+		<node X="-17442" Y="-52166" />
+		<node X="-18200" Y="-52898" />
+		<node X="-18205" Y="-54979" />
+		<node X="-14532" Y="-54982" />
+		<node X="-14573" Y="-52892" />
+		<node X="-15353" Y="-52161" />
+		<node X="-15755" Y="-52134" />
+	</zone>
+</list>

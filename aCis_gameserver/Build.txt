@@ -1,0 +1,36 @@
+
+clean:
+
+checkRequirements:
+     [echo] Verification of your JDK version.
+
+init:
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\classes
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\login
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\gameserver
+
+compile:
+    [javac] Compiling 1669 source files to C:\Source\Acis\aCis_gameserver\build\classes
+
+jar:
+      [jar] Building jar: C:\Source\Acis\aCis_gameserver\build\l2jserver.jar
+     [copy] Copying 1 file to C:\Source\Acis\aCis_gameserver\build\dist\login\libs
+     [copy] Copying 1 file to C:\Source\Acis\aCis_gameserver\build\dist\gameserver\libs
+
+dist:
+     [copy] Copying 3 files to C:\Source\Acis\aCis_gameserver\build\dist\login\libs
+     [copy] Copying 3 files to C:\Source\Acis\aCis_gameserver\build\dist\gameserver\libs
+     [copy] Copying 7 files to C:\Source\Acis\aCis_gameserver\build\dist\login
+     [copy] Copying 5 files to C:\Source\Acis\aCis_gameserver\build\dist\gameserver
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\gameserver\log
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\login\log
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\gameserver\config
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\login\config
+     [copy] Copying 8 files to C:\Source\Acis\aCis_gameserver\build\dist\gameserver\config
+     [copy] Copying 3 files to C:\Source\Acis\aCis_gameserver\build\dist\login\config
+    [mkdir] Created dir: C:\Source\Acis\aCis_gameserver\build\dist\gameserver\data
+
+BUILD SUCCESSFUL
+Total time: 34 seconds
